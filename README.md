@@ -1,2 +1,2 @@
 # chrome-cookie-api
-API cookie in Chrome extension
+Cookie API in Chrome extension
