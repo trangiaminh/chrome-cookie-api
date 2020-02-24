@@ -241,18 +241,18 @@
 
 // import all cookies from json string
 // var jsonStr = `[{
-    "domain": "abc.com",
-    "expirationDate": 253402300799,
-    "hostOnly": true,
-    "httpOnly": false,
-    "name": "name",
-    "path": "/123/456",
-    "sameSite": "unspecified",
-    "secure": true,
-    "session": false,
-    "storeId": "0",
-    "value": "value"
-  }]`;
+//     "domain": "abc.com",
+//     "expirationDate": 253402300799,
+//     "hostOnly": true,
+//     "httpOnly": false,
+//     "name": "name",
+//     "path": "/123/456",
+//     "sameSite": "unspecified",
+//     "secure": true,
+//     "session": false,
+//     "storeId": "0",
+//     "value": "value"
+// }]`;
 // window.ChromeCookieAPI.importAllCookies({ jsonStr, storeId: "0" });
 
 // import all cookies from cookies array
